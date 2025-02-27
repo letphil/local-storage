@@ -2,7 +2,7 @@
 
 ---
 
-### **Introduction to Web Storage (0:00 - 0:10)**
+### **Introduction to Web Storage**
 
 **Web Storage** is a crucial part of web development. It allows us to store data locally on the user’s browser. There are three main types of web storage:
 
